@@ -1,3 +1,1 @@
-My very Web template.
-
-my first git repositry.
+My very first Web template.It is fully resposive. 
