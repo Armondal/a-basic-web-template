@@ -1,0 +1,191 @@
+body{
+font-family: 'Roboto Slab', serif;
+}
+
+/*Designing the nevbah*/
+
+.navbar-custom{
+  background-color: #282e3e;
+  color:#ffffff;
+  border: 0px;
+  padding: 10px;
+
+}
+
+.navbar-custom .navbar-nav>li>a{
+  color: #ffffff;
+  margin-left: 13px;
+  font-size: 19px; 
+}
+
+.navbar-custom .navbar-nav>.active>a{
+  color: #ffffff;
+  background-color: #82c434;
+}
+
+.navbar-custom .navbar-nav>li>a:hover{
+  background-color: #82c434;
+}
+
+.navbar-custom .navbar-brand{
+  color: #ffffff;
+  margin-left: 15px;
+  font-size: 27px;
+}
+
+
+.navbar-custom .navbar-brand:hover{
+  color: #ffffff;
+  font-size: 27px;
+}
+
+/*slider*/
+.slider{
+  width: 100%;
+  padding: 0;
+  margin: 50px 0px 20px 0px;
+}
+.carousel-inner img{
+  width: auto;
+  height: 600px;
+}
+.carousel-caption{
+  color: #ffffff;
+  top: 20%;
+  left: -20px;
+}
+b{
+  font-size: 40px;
+  border-bottom-style: ridge;
+  font-weight: bold;
+  border-bottom-color: #81c434;
+}
+
+/*services*/
+
+#services{
+  font-size: 45px;
+  border-bottom-style: ridge;
+  font-weight: bold;
+  color: #81c434;
+}
+center p {
+  font-size: 24px;
+}
+
+.design,.mobile,.software,.seo{
+  margin: 60px 0 0 0;
+  border-style: solid;
+  border-color: #999999;
+  border-width: 1px;
+  min-height: 350px;
+}
+.icons{
+  width: 130px;
+  font-size: 60px;
+  background-color: #d9d9d9;
+  padding: 5px 10px;
+  height: 110px;
+  margin: -50px  0 0 0;
+  color: #81c434;
+}
+
+.icon-title{
+  font-size: 24px;
+}
+.icon-text{
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.btn-primary{
+  background-color: #81c434;
+  border-color: #81c434;
+  border-radius: 0px;
+}
+
+
+/*About*/
+
+#about{
+  min-height: 600px;
+  background-color: #282e3e;
+  margin-top: 50px;
+}
+
+.about-company{
+  font-size: 45px;
+  border-bottom-style: ridge;
+  border-bottom-color: #82c434;
+  position: relative;
+  top:35px;
+  color: #ffffff;
+}
+.col-md-6{
+  margin-top: 50px; 
+}
+.col-md-6 img{
+  width: auto;
+  height: 400px;
+}
+.col-md-6 p{
+  color: #ffffff;
+}
+.col-md-6 h2{
+  padding: 0;
+  margin: 0;
+  color: #ffffff;
+}
+
+.percentCount{
+  color: #ffffff;
+}
+
+/*  team  */
+
+#team{
+  top: 40px;
+  position: relative;
+  text-align:center;
+}
+#our-team{
+  font-size: 45px;
+  border-bottom-style: ridge;
+  font-weight: bold;
+  color: #81c434;
+}
+.fab{
+  color:  #1f54a8;
+}
+
+.team-member{
+  text-align: center;
+  margin-top: 5px;
+}
+.iconss i{
+  text-align: center;
+  font-size: 20px;
+  height: 50px;
+  width: 50px;
+  background-color: #7bbc31;
+  padding: 15px;
+  border-radius: 50%;
+}
+.iconss i:hover{
+  background-color: #6ba826;
+}
+
+.img-responsive{
+  height: 250px;
+  width: auto;
+}
+
+/*  footer  */
+#footer{
+  width: 100%;
+  min-height: 300px;
+  background-color: #282e3e;
+  position: relative;
+  top: 150px;
+  color: #ffffff;
+}
