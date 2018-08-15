@@ -38,6 +38,9 @@ font-family: 'Roboto Slab', serif;
   color: #ffffff;
   font-size: 27px;
 }
+nav.navbar.navbar-custom.navbar-nav.navbar-default.navbar-fixed-top {
+    margin-top: 0;
+}
 
 /*slider*/
 .slider{
